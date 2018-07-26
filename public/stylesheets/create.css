@@ -1,0 +1,32 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color:grey;
+}
+
+/* a {
+  color: #00B7FF;
+} */
+.image {
+  background-image: url("../images/header-picture.jpg");
+  height: 630px;
+  background-size: cover;
+}
+.navbar-inverse {
+    background-color:#324d62;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: black;
+    font-size: 20px;
+}
+.container-fluid ul {
+  display: inline;
+  background-color:#324d62;
+}
+.panel-heading {
+  text-align: center;
+  font-size: 40px;
+}
+.panel-default {
+  width: 100%;
+}
