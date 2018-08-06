@@ -31,6 +31,11 @@ a {
   background-image: url("../images/header-picture.jpg");
   height: 630px;
   background-size: cover;
+  height: 470px;
+    background-size: 100% 100%;
+}
+
+
 }
 
 .panel-body {
